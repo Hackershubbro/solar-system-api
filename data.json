@@ -1,0 +1,1012 @@
+[
+  {
+    "name": "Mars",
+    "description": "Mars is the fourth planet from the Sun and the second smallest in the solar system. It is often called the 'Red Planet' due to its reddish appearance caused by iron oxide on its surface. Mars has a thin atmosphere, polar ice caps, and the largest volcano in the solar system.",
+    "quick_facts": {
+      "size": "Second smallest planet in the solar system",
+      "surface_water": "Evidence suggests liquid water once flowed on its surface",
+      "composition": "Made of rock and metal",
+      "name_origin": "Named after the Roman god of war",
+      "temperature": "N/A",
+      "storm": "N/A"
+    },
+    "namesake": {
+      "origin": "Mars is named after the Roman god of war due to its red color, which resembles blood."
+    },
+    "potential_for_life": {
+      "habitability": "Mars' conditions are harsh, but past microbial life may have existed.",
+      "water": "Frozen water exists at the poles and beneath the surface.",
+      "climate_change": "Mars had a thicker atmosphere in the past, which may have supported liquid water.",
+      "clouds": "N/A",
+      "radiation": "N/A"
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "4,220 miles (6,792 kilometers)",
+      "distance_from_sun": "142 million miles (228 million kilometers)",
+      "astronomical_unit": "1.52 AU",
+      "light_travel_time": "About 13 minutes"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "24.6 hours",
+      "orbital_period": "687 Earth days",
+      "leap_year": "Not applicable, but seasons last roughly twice as long as Earth's.",
+      "axial_tilt": "25.2 degrees",
+      "seasons": "Mars has four seasons similar to Earth, but they last longer due to its longer orbit."
+    },
+    "moons": {
+      "count": 2,
+      "description": "Mars has two small, irregularly shaped moons: Phobos and Deimos.",
+      "formation": "Believed to be captured asteroids from the asteroid belt.",
+      "sizes": {
+        "Phobos": "Radius of 7 miles (11 kilometers)",
+        "Deimos": "Radius of 4 miles (6 kilometers)"
+      },
+      "distances_from_mars": {
+        "Phobos": "3,700 miles (6,000 kilometers)",
+        "Deimos": "12,470 miles (20,070 kilometers)"
+      }
+    },
+    "rings": "None",
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed from dust and gas in the early solar system, becoming the fourth planet from the Sun."
+    },
+    "structure": {
+      "layers": [{
+        "0": {
+          "name": "Core",
+          "composition": "Possibly iron, sulfur, and nickel",
+          "radius": "1,100 miles (1,800 kilometers)",
+          "state": "Partially liquid"
+        },
+        "1": {
+          "name": "Mantle",
+          "composition": "Silicate minerals",
+          "thickness": "900 miles (1,500 kilometers)"
+        },
+        "2": {
+          "name": "Crust",
+          "composition": "Basaltic rock",
+          "thickness": "6 to 30 miles (10 to 50 kilometers)"
+        }
+      }]
+    },
+    "surface": {
+      "features": [
+        "Canyons",
+        "Mountains",
+        "Impact Craters",
+        "Dunes"
+      ],
+      "largest_volcano": "Olympus Mons, the tallest volcano in the solar system, 13.6 miles (22 kilometers) high.",
+      "deepest_canyon": "Valles Marineris, stretching over 2,500 miles (4,000 kilometers).",
+      "polar_ice_caps": "Made of water and carbon dioxide ice, they grow and shrink with the seasons."
+    },
+    "atmosphere": {
+      "composition": {
+        "carbon_dioxide": "95%",
+        "nitrogen": "3%",
+        "argon": "1.6%",
+        "other_gases": "Trace amounts of oxygen and water vapor"
+      },
+      "function": "Thin and unable to retain heat well, causing extreme temperature variations."
+    },
+    "magnetosphere": {
+      "description": "Mars lacks a global magnetic field but has localized magnetic regions in its crust.",
+      "effect": "Without a strong magnetosphere, Mars' atmosphere has been stripped away by solar wind."
+    },
+    "key_features": [{
+      "0": "Known as the 'Red Planet' due to iron-rich dust.",
+      "1": "Home to Olympus Mons, the largest volcano in the solar system.",
+      "2": "Has polar ice caps and past evidence of liquid water.",
+      "3": "Two small moons: Phobos and Deimos.",
+      "4": "No rings.",
+      "5": "Thin atmosphere mostly composed of carbon dioxide."
+    }]
+  },
+  {
+    "name": "Earth",
+    "description": "Earth is the third planet from the Sun and the fifth largest in the solar system. It is the only planet known to support life, with a surface mostly covered by liquid water. Earth has a dynamic atmosphere, a single moon, and no rings.",
+    "quick_facts": {
+      "size": "Fifth largest planet in the solar system",
+      "surface_water": "Only planet with liquid water on the surface",
+      "composition": "Made of rock and metal",
+      "name_origin": "Derived from Old English and Germanic words meaning 'the ground'",
+      "temperature": "N/A",
+      "storm": "N/A"
+    },
+    "namesake": {
+      "origin": "The name Earth is at least 1,000 years old and comes from Germanic words meaning 'the ground.' Unlike other planets, it is not named after a Greek or Roman god or goddess."
+    },
+    "potential_for_life": {
+      "habitability": "Earth has a hospitable temperature and chemical mix that supports abundant life.",
+      "water": "Most of the planet is covered in liquid water, which allowed life to begin about 3.8 billion years ago.",
+      "climate_change": "Ongoing climate change is altering some of the features that make Earth suitable for life.",
+      "clouds": "N/A",
+      "radiation": "N/A"
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "7926 miles (12,760 kilometers)",
+      "distance_from_sun": "93 million miles (150 million kilometers)",
+      "astronomical_unit": "1 AU (the distance from the Sun to Earth)",
+      "light_travel_time": "About 8 minutes"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "23.9 hours",
+      "orbital_period": "365.25 days",
+      "leap_year": "Every 4 years, a leap day is added to keep the calendar consistent with Earth's orbit.",
+      "axial_tilt": "23.4 degrees",
+      "seasons": "Caused by the axial tilt, resulting in varying solar heating between the northern and southern hemispheres."
+    },
+    "moons": {
+      "count": 1,
+      "description": "Earth's Moon is the brightest object in the night sky and stabilizes Earth's wobble, making the climate less variable.",
+      "formation": "Likely formed from a collision between Earth and a large chunk of rock billions of years ago.",
+      "size": "Radius of 1,080 miles (1,738 kilometers), making it the fifth largest moon in the solar system.",
+      "distance_from_earth": "238,855 miles (384,400 kilometers)"
+    },
+    "rings": "None",
+    "formation": {
+      "age": "About 4.5 billion years old",
+      "process": "Formed from swirling gas and dust pulled together by gravity, becoming the third planet from the Sun."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Inner Core",
+          "composition": "Solid iron and nickel",
+          "radius": "759 miles (1,221 kilometers)",
+          "temperature": "Up to 9,800°F (5,400°C)"
+        },
+        "1": {
+          "name": "Outer Core",
+          "composition": "Liquid iron and nickel",
+          "thickness": "1,400 miles (2,300 kilometers)"
+        },
+        "2": {
+          "name": "Mantle",
+          "composition": "Hot, viscous molten rock",
+          "thickness": "1,800 miles (2,900 kilometers)"
+        },
+        "3": {
+          "name": "Crust",
+          "composition": "Solid rock",
+          "thickness": {
+            "land": "19 miles (30 kilometers)",
+            "ocean": "3 miles (5 kilometers)"
+          }
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Volcanoes",
+        "Mountains",
+        "Valleys",
+        "Oceans"
+      ],
+      "lithosphere": "Divided into tectonic plates that constantly move, causing earthquakes and mountain formation.",
+      "ocean": {
+        "coverage": "Nearly 70% of Earth's surface",
+        "average_depth": "2.5 miles (4 kilometers)",
+        "water_content": "97% of Earth's water"
+      },
+      "longest_mountain_range": "Underwater, at the bottom of the Arctic and Atlantic oceans, four times longer than the Andes, Rockies, and Himalayas combined."
+    },
+    "atmosphere": {
+      "composition": {
+        "nitrogen": "78%",
+        "oxygen": "21%",
+        "other_gases": "1% (argon, carbon dioxide, neon, etc.)"
+      },
+      "function": "Protects from harmful solar radiation, regulates climate and weather, and burns up most meteoroids before they reach the surface."
+    },
+    "magnetosphere": {
+      "description": "Generated by Earth's rapid rotation and molten iron-nickel core, it protects the planet from solar wind.",
+      "aurorae": "Caused by charged particles from the solar wind colliding with air molecules near the magnetic poles.",
+      "magnetic_reversal": {
+        "frequency": "About every 400,000 years on average",
+        "effect": "Compass needles would point south instead of north during a reversal."
+      }
+    },
+    "key_features": {
+      "0": "Only planet known to support life.",
+      "1": "Dynamic surface with mountains, canyons, plains, and oceans.",
+      "2": "Atmosphere with the perfect balance of nitrogen and oxygen for breathing.",
+      "3": "One moon that stabilizes Earth's climate.",
+      "4": "No rings.",
+      "5": "Protected by a magnetic field and atmosphere."
+    }
+  },
+  {
+    "name": "Mercury",
+    "description": "Mercury is the closest planet to the Sun and the smallest in the solar system. It has an extremely thin atmosphere and experiences extreme temperature variations. Its surface is covered with craters, similar to the Moon.",
+    "quick_facts": {
+      "size": "Smallest planet in the solar system",
+      "surface_water": "N/A",
+      "composition": "Made mostly of rock and metal",
+      "name_origin": "Named after the Roman messenger god, Mercury, due to its fast orbit around the Sun",
+      "temperature": "N/A",
+      "storm": "N/A",
+      "temperature_extremes": "Hottest days and coldest nights due to lack of atmosphere"
+    },
+    "namesake": {
+      "origin": "Named after Mercury, the Roman god of commerce, travel, and communication, because of its rapid movement across the sky."
+    },
+    "potential_for_life": {
+      "habitability": "Mercury is inhospitable due to extreme temperatures, lack of atmosphere, and high radiation levels.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "N/A",
+      "radiation": "Lack of a thick atmosphere exposes the surface to intense solar radiation.",
+      "water_ice": "Despite high temperatures, water ice exists in permanently shadowed craters at the poles."
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "3,032 miles (4,880 kilometers)",
+      "distance_from_sun": "36 million miles (58 million kilometers)",
+      "astronomical_unit": "0.39 AU",
+      "light_travel_time": "About 3.2 minutes"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "59 Earth days",
+      "orbital_period": "88 Earth days",
+      "day_length": "One Mercury day (sunrise to sunrise) lasts 176 Earth days due to its slow rotation and fast orbit.",
+      "axial_tilt": "0.034 degrees, making it nearly upright with no real seasons."
+    },
+    "moons": {
+      "count": 0,
+      "description": "Mercury has no moons due to its proximity to the Sun, which would likely pull any moon out of orbit."
+    },
+    "rings": "None",
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed from dust and gas near the Sun, becoming the smallest and closest planet."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Large iron core, making up about 85% of the planet’s radius",
+          "radius": "1,289 miles (2,074 kilometers)"
+        },
+        "1": {
+          "name": "Mantle",
+          "composition": "Rocky silicate material",
+          "thickness": "250 miles (400 kilometers)"
+        },
+        "2": {
+          "name": "Crust",
+          "composition": "Solid rock, heavily cratered",
+          "thickness": "20 to 30 miles (30 to 50 kilometers)"
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Craters",
+        "Cliffs",
+        "Plains",
+        "Lobate scarps"
+      ],
+      "largest_crater": "Caloris Basin, over 960 miles (1,550 kilometers) in diameter.",
+      "temperature_range": "From 800°F (430°C) during the day to -290°F (-180°C) at night.",
+      "surface_changes": "Tectonic activity has caused shrinking and wrinkling of the surface over billions of years."
+    },
+    "atmosphere": {
+      "composition": {
+        "oxygen": "42%",
+        "sodium": "29%",
+        "hydrogen": "22%",
+        "helium": "6%",
+        "other_gases": "Trace amounts of potassium, calcium, and others"
+      },
+      "function": "Extremely thin, called an exosphere, offering little protection from solar radiation and meteoroids."
+    },
+    "magnetosphere": {
+      "description": "Mercury has a weak magnetic field, about 1% as strong as Earth's.",
+      "effect": "Provides some protection from solar wind but allows charged particles to reach the surface, creating magnetic tornadoes."
+    },
+    "key_features": {
+      "0": "Closest planet to the Sun.",
+      "1": "Smallest planet in the solar system.",
+      "2": "No atmosphere to retain heat, leading to extreme temperature swings.",
+      "3": "Surface heavily cratered, resembling the Moon.",
+      "4": "No moons or rings.",
+      "5": "Has a large iron core, making up most of its mass."
+    }
+  },
+  {
+    "name": "Venus",
+    "description": "Venus is the second planet from the Sun and the hottest planet in the solar system. It has a thick atmosphere composed mostly of carbon dioxide, trapping heat and creating a runaway greenhouse effect. Venus has a rocky surface covered in vast volcanic plains and is sometimes called Earth's 'sister planet' due to its similar size and composition.",
+    "quick_facts": {
+      "size": "Similar in size to Earth, often called Earth's twin",
+      "surface_water": "N/A",
+      "composition": "Made mostly of rock and metal",
+      "name_origin": "Named after Venus, the Roman goddess of love and beauty",
+      "temperature": "Hottest planet in the solar system, with surface temperatures exceeding 900°F (475°C)",
+      "storm": "N/A"
+    },
+    "namesake": {
+      "origin": "Named after Venus, the Roman goddess of love and beauty, making it the only planet named after a female deity."
+    },
+    "potential_for_life": {
+      "habitability": "Venus is currently inhospitable due to extreme heat, high atmospheric pressure, and acidic clouds.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "Sulfuric acid clouds exist in the atmosphere, reflecting sunlight and making Venus the brightest planet in the night sky.",
+      "radiation": "N/A",
+      "past_water": "Scientists believe Venus may have had liquid water oceans billions of years ago before experiencing a runaway greenhouse effect."
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "7,520 miles (12,104 kilometers)",
+      "distance_from_sun": "67 million miles (108 million kilometers)",
+      "astronomical_unit": "0.72 AU",
+      "light_travel_time": "About 6 minutes"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "243 Earth days (rotates very slowly and in the opposite direction of most planets)",
+      "orbital_period": "225 Earth days",
+      "day_length": "One Venusian day (from sunrise to sunrise) lasts 117 Earth days due to its slow rotation.",
+      "axial_tilt": "3 degrees, meaning Venus has almost no seasons."
+    },
+    "moons": {
+      "count": 0,
+      "description": "Venus has no moons, possibly due to its proximity to the Sun, which could have prevented moon formation or captured any that tried to orbit."
+    },
+    "rings": "None",
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed from the solar nebula, becoming the second planet from the Sun with a dense atmosphere."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Iron and nickel",
+          "radius": "1,900 miles (3,000 kilometers)"
+        },
+        "1": {
+          "name": "Mantle",
+          "composition": "Rocky silicate material",
+          "thickness": "1,200 miles (2,000 kilometers)"
+        },
+        "2": {
+          "name": "Crust",
+          "composition": "Rocky surface with volcanic plains",
+          "thickness": "6 to 12 miles (10 to 20 kilometers)"
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Volcanoes",
+        "Mountains",
+        "Plains",
+        "Craters"
+      ],
+      "largest_volcano": "Maat Mons, a massive volcano standing about 5 miles (8 kilometers) high.",
+      "atmospheric_pressure": "92 times greater than Earth's, equivalent to being nearly a mile underwater on Earth.",
+      "winds": "Super-fast winds in the upper atmosphere, reaching speeds of 224 mph (360 km/h)."
+    },
+    "atmosphere": {
+      "composition": {
+        "carbon_dioxide": "96.5%",
+        "nitrogen": "3.5%",
+        "other_gases": "Trace amounts of sulfur dioxide, argon, and water vapor"
+      },
+      "function": "Creates an extreme greenhouse effect, trapping heat and making Venus the hottest planet."
+    },
+    "magnetosphere": {
+      "description": "Unlike Earth, Venus does not have a strong magnetic field.",
+      "effect": "Solar wind interacts directly with Venus's upper atmosphere, slowly stripping it away over time."
+    },
+    "key_features": {
+      "0": "Hottest planet in the solar system due to a thick, heat-trapping atmosphere.",
+      "1": "Rotates very slowly and in the opposite direction of most planets.",
+      "2": "Dense atmosphere made mostly of carbon dioxide, with thick sulfuric acid clouds.",
+      "3": "No moons or rings.",
+      "4": "Surface covered in volcanic plains, mountains, and impact craters.",
+      "5": "Extreme atmospheric pressure, about 92 times greater than Earth's."
+    }
+  },
+  {
+    "name": "Jupiter",
+    "description": "Jupiter is the largest planet in the solar system and a gas giant primarily composed of hydrogen and helium. It has a strong magnetic field, dozens of moons, and the famous Great Red Spot, a massive storm that has been raging for centuries.",
+    "quick_facts": {
+      "size": "Largest planet in the solar system",
+      "surface_water": "N/A",
+      "composition": "Made mostly of hydrogen and helium, with no solid surface",
+      "name_origin": "Named after Jupiter, the king of the Roman gods",
+      "temperature": "N/A",
+      "storm": "Home to the Great Red Spot, a storm larger than Earth"
+    },
+    "namesake": {
+      "origin": "Named after Jupiter, the king of the Roman gods, due to its massive size and dominance in the solar system."
+    },
+    "potential_for_life": {
+      "habitability": "Jupiter itself is inhospitable due to extreme pressures, lack of a solid surface, and violent storms.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "N/A",
+      "radiation": "Jupiter's powerful radiation belt makes the environment harsh for life as we know it.",
+      "moons": "Some of Jupiter’s moons, such as Europa, may have subsurface oceans that could potentially support life."
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "86,881 miles (139,820 kilometers)",
+      "distance_from_sun": "484 million miles (778 million kilometers)",
+      "astronomical_unit": "5.2 AU",
+      "light_travel_time": "About 43 minutes"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "9.9 hours (fastest spinning planet in the solar system)",
+      "orbital_period": "11.86 Earth years",
+      "axial_tilt": "3.1 degrees, meaning Jupiter has very mild seasons."
+    },
+    "moons": {
+      "count": 0,
+      "largest_moons": "Io, Europa, Ganymede, Callisto (Galilean moons)",
+      "largest_moon_description": "Ganymede is the largest moon in the solar system, even bigger than Mercury."
+    },
+    "rings": {
+      "0": "N",
+      "1": "o",
+      "2": "n",
+      "3": "e",
+      "existence": "Yes",
+      "description": "Jupiter has faint rings made mostly of dust, discovered by the Voyager spacecraft."
+    },
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed from leftover gas and dust from the early solar system, becoming the largest planet."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Possibly made of rock, metal, and hydrogen compounds",
+          "radius": "Uncertain, but estimated to be about 10–20 times Earth's mass"
+        },
+        "1": {
+          "name": "Metallic Hydrogen Layer",
+          "composition": "Hydrogen under such extreme pressure that it acts like a metal",
+          "function": "Generates Jupiter’s powerful magnetic field"
+        },
+        "2": {
+          "name": "Atmosphere",
+          "composition": "Hydrogen and helium with swirling clouds of ammonia and water",
+          "depth": "Extends thousands of miles into the planet"
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Great Red Spot",
+        "Cloud Bands",
+        "Storms",
+        "Polar Auroras"
+      ],
+      "great_red_spot": "A massive storm, over 10,000 miles (16,000 km) across, existing for over 300 years.",
+      "winds": "Jet streams create colorful bands of clouds moving at up to 400 mph (640 km/h)."
+    },
+    "atmosphere": {
+      "composition": {
+        "hydrogen": "90%",
+        "helium": "10%",
+        "other_gases": "Trace amounts of methane, ammonia, water vapor, and other compounds"
+      },
+      "function": "Creates Jupiter’s iconic cloud bands and massive storms."
+    },
+    "magnetosphere": {
+      "description": "Jupiter has the strongest magnetic field of any planet in the solar system.",
+      "effect": "Creates intense radiation belts and bright auroras at its poles.",
+      "size": "Extends millions of miles into space, making it the largest structure in the solar system."
+    },
+    "key_features": {
+      "0": "Largest planet in the solar system.",
+      "1": "Has the fastest rotation of any planet, completing a day in under 10 hours.",
+      "2": "Home to the Great Red Spot, a storm larger than Earth.",
+      "3": "Has at least 95 moons, including the four large Galilean moons.",
+      "4": "Has a faint ring system made of dust.",
+      "5": "Strongest magnetic field of any planet."
+    }
+  },
+  {
+    "name": "Saturn",
+    "description": "Saturn is the sixth planet from the Sun and the second-largest planet in the solar system. It is best known for its stunning ring system, which is the most extensive and complex of any planet. Like Jupiter, Saturn is a gas giant primarily composed of hydrogen and helium, with no solid surface.",
+    "quick_facts": {
+      "size": "Second-largest planet in the solar system",
+      "surface_water": "N/A",
+      "composition": "Made mostly of hydrogen and helium",
+      "name_origin": "Named after Saturn, the Roman god of agriculture and time",
+      "temperature": "N/A",
+      "storm": "N/A",
+      "rings": "Has the most prominent and complex ring system"
+    },
+    "namesake": {
+      "origin": "Named after Saturn, the Roman god of agriculture and time, and the father of Jupiter in mythology."
+    },
+    "potential_for_life": {
+      "habitability": "Saturn itself is not suitable for life due to extreme temperatures and lack of a solid surface.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "N/A",
+      "radiation": "N/A",
+      "moons": "Some of Saturn’s moons, such as Enceladus and Titan, may have conditions that could support life.",
+      "subsurface_ocean": "Enceladus has an underground ocean that may contain the necessary ingredients for life."
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "74,900 miles (120,500 kilometers)",
+      "distance_from_sun": "886 million miles (1.4 billion kilometers)",
+      "astronomical_unit": "9.5 AU",
+      "light_travel_time": "About 79 minutes"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "10.7 hours",
+      "orbital_period": "29.5 Earth years",
+      "axial_tilt": "26.7 degrees, causing distinct seasons."
+    },
+    "moons": {
+      "count": 0,
+      "largest_moons": "Titan, Enceladus, Rhea, Iapetus, Dione",
+      "titan_description": "Titan, Saturn's largest moon, has a thick atmosphere and liquid methane lakes on its surface."
+    },
+    "rings": {
+      "0": "N",
+      "1": "o",
+      "2": "n",
+      "3": "e",
+      "existence": "Yes",
+      "description": "Saturn has the most extensive ring system in the solar system, made mostly of ice and rock particles.",
+      "width": "Rings extend up to 175,000 miles (282,000 kilometers) from the planet.",
+      "thickness": "Only about 30 feet (10 meters) thick."
+    },
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed from the solar nebula, becoming a gas giant with an extensive ring system."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Rocky and metallic core, surrounded by icy materials",
+          "radius": "Estimated to be about 10–20 times Earth's mass"
+        },
+        "1": {
+          "name": "Metallic Hydrogen Layer",
+          "composition": "Hydrogen under extreme pressure, behaving like a liquid metal",
+          "function": "Generates Saturn’s magnetic field"
+        },
+        "2": {
+          "name": "Atmosphere",
+          "composition": "Mostly hydrogen and helium, with ammonia and methane clouds",
+          "depth": "Extends thousands of miles into the planet"
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Storms",
+        "Jet Streams",
+        "Hexagonal Polar Storm"
+      ],
+      "hexagonal_storm": "A mysterious hexagon-shaped storm exists at Saturn’s north pole, over 20,000 miles (32,000 km) wide.",
+      "winds": "Saturn’s winds can reach speeds of up to 1,100 mph (1,800 km/h)."
+    },
+    "atmosphere": {
+      "composition": {
+        "hydrogen": "96%",
+        "helium": "3%",
+        "other_gases": "Trace amounts of methane, ammonia, and other compounds"
+      },
+      "function": "Creates Saturn’s iconic banded cloud patterns and storms."
+    },
+    "magnetosphere": {
+      "description": "Saturn has a strong but less powerful magnetic field than Jupiter.",
+      "effect": "Protects Saturn from solar wind and creates auroras at the poles."
+    },
+    "key_features": {
+      "0": "Second-largest planet in the solar system.",
+      "1": "Has the most extensive and complex ring system.",
+      "2": "Rotates rapidly, completing a day in about 10.7 hours.",
+      "3": "Has at least 146 moons, including Titan, which has a thick atmosphere.",
+      "4": "Famous for its hexagonal storm at the north pole.",
+      "5": "Strong but less intense magnetic field compared to Jupiter."
+    }
+  },
+  {
+    "name": "Uranus",
+    "description": "Uranus is the seventh planet from the Sun and the third-largest in the solar system. It is an ice giant with a pale blue-green color due to methane in its atmosphere. Uranus is unique because it rotates on its side, making its seasons extreme and lasting for decades.",
+    "quick_facts": {
+      "size": "Third-largest planet in the solar system",
+      "surface_water": "N/A",
+      "composition": "Composed mostly of hydrogen, helium, and icy materials like water, methane, and ammonia",
+      "name_origin": "Named after Uranus, the Greek god of the sky",
+      "temperature": "N/A",
+      "storm": "N/A",
+      "tilt": "Rotates on its side with an axial tilt of 98 degrees"
+    },
+    "namesake": {
+      "origin": "Named after Uranus, the Greek god of the sky, and the father of Saturn in mythology."
+    },
+    "potential_for_life": {
+      "habitability": "Uranus itself is not habitable due to its cold temperatures, lack of a solid surface, and extreme atmospheric pressures.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "N/A",
+      "radiation": "N/A",
+      "moons": "Some of Uranus’s moons, such as Titania and Oberon, may have subsurface oceans that could harbor life."
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "31,518 miles (50,724 kilometers)",
+      "distance_from_sun": "1.8 billion miles (2.9 billion kilometers)",
+      "astronomical_unit": "19.8 AU",
+      "light_travel_time": "About 159 minutes"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "17.2 hours",
+      "orbital_period": "84 Earth years",
+      "axial_tilt": "98 degrees, causing extreme seasonal changes."
+    },
+    "moons": {
+      "count": 0,
+      "largest_moons": "Titania, Oberon, Umbriel, Ariel, Miranda",
+      "moons_description": "Uranus’s moons are named after characters from the works of William Shakespeare and Alexander Pope."
+    },
+    "rings": {
+      "0": "N",
+      "1": "o",
+      "2": "n",
+      "3": "e",
+      "existence": "Yes",
+      "description": "Uranus has faint rings composed mostly of dark particles, discovered in 1977.",
+      "ring_count": "13 known rings",
+      "visibility": "Much darker and less prominent than Saturn’s rings."
+    },
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed from gas and ice in the early solar system, becoming an ice giant."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Rock and ice",
+          "function": "Provides a small but dense center for the planet"
+        },
+        "1": {
+          "name": "Mantle",
+          "composition": "Water, ammonia, and methane ices",
+          "function": "Gives Uranus its classification as an ice giant"
+        },
+        "2": {
+          "name": "Atmosphere",
+          "composition": "Hydrogen, helium, and methane",
+          "depth": "Extends thousands of miles into the planet"
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Faint Cloud Bands",
+        "Storms",
+        "Extreme Axial Tilt"
+      ],
+      "winds": "Winds can reach speeds of up to 560 mph (900 km/h).",
+      "storms": "Occasional storms appear in Uranus’s atmosphere, but they are less prominent than on Jupiter and Saturn."
+    },
+    "atmosphere": {
+      "composition": {
+        "hydrogen": "83%",
+        "helium": "15%",
+        "methane": "2%"
+      },
+      "function": "The methane in the atmosphere absorbs red light, giving Uranus its pale blue-green color."
+    },
+    "magnetosphere": {
+      "description": "Uranus has a highly tilted and off-center magnetic field, possibly due to its unique rotation.",
+      "effect": "The magnetic field is not aligned with the planet’s rotation, causing irregular auroras."
+    },
+    "key_features": {
+      "0": "Rotates on its side with an extreme axial tilt of 98 degrees.",
+      "1": "Third-largest planet in the solar system.",
+      "2": "Pale blue-green color due to methane in its atmosphere.",
+      "3": "Has at least 27 moons, named after literary characters.",
+      "4": "Has a faint ring system composed of dark particles.",
+      "5": "Takes 84 Earth years to complete one orbit around the Sun."
+    }
+  },
+  {
+    "name": "Neptune",
+    "description": "Neptune is the eighth and farthest planet from the Sun. It is an ice giant known for its deep blue color, strong winds, and violent storms. It has a dynamic atmosphere and the fastest winds recorded in the solar system.",
+    "quick_facts": {
+      "size": "Fourth-largest planet in the solar system",
+      "surface_water": "N/A",
+      "composition": "Made mostly of hydrogen, helium, and icy materials like water, methane, and ammonia",
+      "name_origin": "Named after Neptune, the Roman god of the sea",
+      "temperature": "N/A",
+      "storm": "N/A",
+      "winds": "Fastest winds in the solar system, reaching up to 1,200 mph (1,930 km/h)"
+    },
+    "namesake": {
+      "origin": "Named after Neptune, the Roman god of the sea, due to its deep blue color."
+    },
+    "potential_for_life": {
+      "habitability": "Neptune itself is inhospitable due to its freezing temperatures, strong winds, and high-pressure atmosphere.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "N/A",
+      "radiation": "N/A",
+      "moons": "Some of Neptune’s moons, like Triton, might have subsurface oceans that could harbor life."
+    },
+    "size_and_distance": {
+      "equatorial_diameter": "30,598 miles (49,244 kilometers)",
+      "distance_from_sun": "2.8 billion miles (4.5 billion kilometers)",
+      "astronomical_unit": "30 AU",
+      "light_travel_time": "About 4 hours"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "16.1 hours",
+      "orbital_period": "165 Earth years",
+      "axial_tilt": "28.3 degrees, resulting in seasonal changes."
+    },
+    "moons": {
+      "count": 0,
+      "largest_moon": "Triton",
+      "triton_description": "Triton is the only large moon in the solar system that orbits in the opposite direction of its planet’s rotation, suggesting it was captured from the Kuiper Belt."
+    },
+    "rings": {
+      "0": "N",
+      "1": "o",
+      "2": "n",
+      "3": "e",
+      "existence": "Yes",
+      "description": "Neptune has faint and fragmented rings composed of dust and ice particles.",
+      "ring_count": "At least five known rings",
+      "visibility": "Much fainter than Saturn’s rings."
+    },
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed from gas and ice in the early solar system, becoming an ice giant."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Rock and metal",
+          "function": "Provides a dense center for the planet"
+        },
+        "1": {
+          "name": "Mantle",
+          "composition": "Water, ammonia, and methane ices",
+          "function": "Gives Neptune its classification as an ice giant"
+        },
+        "2": {
+          "name": "Atmosphere",
+          "composition": "Hydrogen, helium, and methane",
+          "depth": "Extends thousands of miles into the planet"
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Storms",
+        "High-Speed Winds",
+        "Dark Spots"
+      ],
+      "great_dark_spot": "A massive storm, similar to Jupiter’s Great Red Spot, was observed on Neptune but later disappeared.",
+      "winds": "Winds on Neptune can reach up to 1,200 mph (1,930 km/h), the fastest in the solar system."
+    },
+    "atmosphere": {
+      "composition": {
+        "hydrogen": "80%",
+        "helium": "19%",
+        "methane": "1%"
+      },
+      "function": "The methane in Neptune’s atmosphere absorbs red light, giving the planet its striking blue color."
+    },
+    "magnetosphere": {
+      "description": "Neptune’s magnetic field is highly tilted and offset from its center, similar to Uranus.",
+      "effect": "This unusual magnetic field creates auroras and interacts with the solar wind in complex ways."
+    },
+    "key_features": {
+      "0": "Farthest planet from the Sun.",
+      "1": "Deep blue color due to methane in its atmosphere.",
+      "2": "Fastest winds in the solar system, reaching up to 1,200 mph (1,930 km/h).",
+      "3": "Has at least 14 moons, with Triton being the largest and orbiting in the opposite direction.",
+      "4": "Has a faint and fragmented ring system.",
+      "5": "Takes 165 Earth years to complete one orbit around the Sun."
+    }
+  },
+  {
+    "name": "Pluto",
+    "description": "Pluto is a dwarf planet in the Kuiper Belt, a region beyond Neptune filled with icy bodies. Once considered the ninth planet, Pluto was reclassified as a dwarf planet in 2006. It has a highly elliptical orbit and experiences extreme temperature variations.",
+    "quick_facts": {
+      "size": "Largest dwarf planet in the Kuiper Belt",
+      "surface_water": "N/A",
+      "composition": "Made of rock and ice",
+      "name_origin": "Named after Pluto, the Roman god of the underworld",
+      "temperature": "N/A",
+      "storm": "N/A",
+      "orbit": "Highly elliptical and tilted compared to the planets"
+    },
+    "namesake": {
+      "origin": "Named after Pluto, the Roman god of the underworld. The name was suggested by an 11-year-old girl, Venetia Burney, in 1930."
+    },
+    "potential_for_life": {
+      "habitability": "Pluto is extremely cold, with an average surface temperature of -387°F (-232°C), making it unlikely to support life.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "N/A",
+      "radiation": "N/A",
+      "subsurface_ocean": "There is a possibility of a subsurface ocean beneath Pluto’s icy crust, which could contain liquid water."
+    },
+    "size_and_distance": {
+      "diameter": "1,473 miles (2,370 kilometers)",
+      "distance_from_sun": "3.7 billion miles (5.9 billion kilometers) on average",
+      "astronomical_unit": "39 AU",
+      "light_travel_time": "About 5.5 hours"
+    },
+    "orbit_and_rotation": {
+      "rotation_period": "6.4 Earth days",
+      "orbital_period": "248 Earth years",
+      "axial_tilt": "120 degrees, causing extreme seasonal variations.",
+      "orbit_shape": "Elliptical, sometimes bringing Pluto closer to the Sun than Neptune."
+    },
+    "moons": {
+      "count": 5,
+      "largest_moon": "Charon",
+      "charon_description": "Charon is nearly half the size of Pluto, making the pair more of a binary system than a typical planet-moon relationship."
+    },
+    "rings": "None",
+    "formation": {
+      "age": "About 4.6 billion years old",
+      "process": "Formed in the Kuiper Belt from leftover material from the early solar system."
+    },
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Rock",
+          "function": "Provides a dense center for the dwarf planet"
+        },
+        "1": {
+          "name": "Mantle",
+          "composition": "Water ice",
+          "function": "Surrounds the rocky core and may contain a subsurface ocean"
+        },
+        "2": {
+          "name": "Surface",
+          "composition": "Frozen nitrogen, methane, and carbon monoxide",
+          "function": "Forms Pluto’s reflective and dynamic outer layer"
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Mountains",
+        "Glaciers",
+        "Canyons",
+        "Plains"
+      ],
+      "heart-shaped_region": "Tombaugh Regio, a large, bright, heart-shaped glacier made of nitrogen ice.",
+      "mountains": "Some mountains on Pluto are as tall as the Rocky Mountains and are made of water ice."
+    },
+    "atmosphere": {
+      "composition": {
+        "nitrogen": "Mostly nitrogen",
+        "methane": "Small amounts of methane and carbon monoxide"
+      },
+      "behavior": "Expands when Pluto is closer to the Sun and collapses when it moves farther away.",
+      "wind": "Weak winds and haze layers up to 80 miles (130 kilometers) high."
+    },
+    "magnetosphere": {
+      "description": "Unknown"
+    },
+    "key_features": {
+      "0": "Dwarf planet located in the Kuiper Belt.",
+      "1": "Has a highly elliptical and tilted orbit.",
+      "2": "Largest known dwarf planet in the solar system.",
+      "3": "Has five moons, with Charon being almost half its size.",
+      "4": "Tombaugh Regio, a heart-shaped glacier, is a defining surface feature.",
+      "5": "Atmosphere expands and collapses depending on its distance from the Sun."
+    }
+  },
+  {
+    "name": "Sun",
+    "description": "The Sun is the star at the center of the solar system. It is a massive ball of hot plasma that provides energy to all planets and supports life on Earth through its light and heat. The Sun's gravity holds the solar system together, and its dynamic activity influences space weather.",
+    "quick_facts": {
+      "size": "N/A",
+      "surface_water": "N/A",
+      "composition": "Mostly hydrogen (about 74%) and helium (about 24%)",
+      "name_origin": "Derived from Old English and Germanic words for 'Sun'",
+      "temperature": "Surface temperature of about 10,000°F (5,500°C)",
+      "storm": "N/A",
+      "type": "Yellow dwarf star (G-type main-sequence star)",
+      "age": "About 4.6 billion years old"
+    },
+    "namesake": {
+      "origin": "The Sun’s name comes from Old English and Germanic roots. Unlike planets, it does not have a name from Greek or Roman mythology."
+    },
+    "potential_for_life": {
+      "habitability": "The Sun itself is not habitable, but it provides the energy necessary for life on Earth.",
+      "water": "N/A",
+      "climate_change": "N/A",
+      "clouds": "N/A",
+      "radiation": "N/A",
+      "solar_wind": "The Sun emits a stream of charged particles (solar wind), which interacts with planetary atmospheres and magnetic fields."
+    },
+    "size_and_distance": {
+      "diameter": "864,340 miles (1.39 million kilometers)",
+      "mass": "About 330,000 times the mass of Earth",
+      "distance_from_earth": "93 million miles (150 million kilometers)",
+      "astronomical_unit": "1 AU (the standard unit for measuring distances in the solar system)",
+      "light_travel_time": "About 8 minutes"
+    },
+    "orbit_and_rotation": {},
+    "moons": {
+      "count": 0
+    },
+    "rings": "None",
+    "formation": {},
+    "structure": {
+      "layers": {
+        "0": {
+          "name": "Core",
+          "composition": "Extremely hot, dense plasma",
+          "temperature": "Up to 27 million°F (15 million°C)",
+          "function": "Site of nuclear fusion, where hydrogen is converted into helium, releasing energy"
+        },
+        "1": {
+          "name": "Radiative Zone",
+          "description": "Energy slowly moves outward through this dense layer over thousands to millions of years."
+        },
+        "2": {
+          "name": "Convective Zone",
+          "description": "Hot gases rise and cooler gases sink, creating convection currents that transport energy to the surface."
+        },
+        "3": {
+          "name": "Photosphere",
+          "description": "Visible surface of the Sun, emitting most of its light and heat."
+        },
+        "4": {
+          "name": "Chromosphere",
+          "description": "Thin, reddish layer above the photosphere, visible during solar eclipses."
+        },
+        "5": {
+          "name": "Corona",
+          "description": "The Sun’s outermost atmosphere, extending millions of miles into space, visible during total solar eclipses."
+        }
+      }
+    },
+    "surface": {
+      "features": [
+        "Sunspots",
+        "Solar Flares",
+        "Coronal Mass Ejections (CMEs)"
+      ],
+      "sunspots": "Dark, cooler regions caused by intense magnetic activity.",
+      "solar_flares": "Sudden, powerful bursts of energy that can disrupt communications and power grids on Earth.",
+      "CMEs": "Massive ejections of plasma and magnetic fields that can impact Earth's magnetic field, causing auroras and geomagnetic storms."
+    },
+    "atmosphere": {
+      "layers": [
+        "Photosphere",
+        "Chromosphere",
+        "Corona"
+      ],
+      "corona_temperature": "Millions of degrees hotter than the surface, a mystery still being studied by scientists."
+    },
+    "magnetosphere": {
+      "description": "The Sun has a powerful magnetic field that influences the entire solar system, creating the heliosphere.",
+      "solar_cycle": "The Sun’s magnetic field flips approximately every 11 years, leading to variations in sunspots and solar activity."
+    },
+    "key_features": {
+      "0": "The largest and most massive object in the solar system.",
+      "1": "Generates energy through nuclear fusion in its core.",
+      "2": "Its gravity holds the solar system together.",
+      "3": "Emits solar wind, influencing space weather and planetary environments.",
+      "4": "Undergoes an 11-year solar cycle, affecting sunspot activity and space weather.",
+      "5": "Essential for life on Earth, providing light and heat."
+    }
+  }
+]
