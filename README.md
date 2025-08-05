@@ -21,7 +21,7 @@ A comprehensive REST API providing detailed astronomical data about all planets 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/solar-system-api.git
+git clone https://github.com/Hackerhubbro/solar-system-api.git
 cd solar-system-api
 
 # Install dependencies
