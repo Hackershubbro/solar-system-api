@@ -5,10 +5,9 @@ on:
     workflows: ["ci"]
     types:
       - completed
-      
+
 jobs:
   deploy:
-    needs: docker
     runs-on: ubuntu-latest
     steps:
       - name: shh into ec2 instance
