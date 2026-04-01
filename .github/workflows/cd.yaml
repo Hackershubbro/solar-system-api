@@ -1,0 +1,46 @@
+name: ci
+
+on:
+  push:
+
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Login to docker hub
+        uses: docker/login-action@latest
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@latest
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-Buildx-action@latest
+
+      - name: Build and push
+        uses: docker/build-push-action@latest
+        with:
+          push: true
+          tags: ${{secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
+
+  deploy:
+    needs: docker
+    runs-on: ubuntu-latest
+    steps:
+      - name: shh into ec2 instance
+        uses: appleboy/ssh-action@latest
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            sudo apt install -y docker.io
+            sudo systemctl enable docker
+            sudo systemctl restart docker
+            sudo docker stop solor-system-api
+            sudo docker rm solor-system-api
+            # sudo pull ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
+            echo "MONGO_URL=${{ secrets.MONGO_URL }}" >> .env
+            docker run -d --env-file .env -p 8000:8000 --name solor-system-api ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
