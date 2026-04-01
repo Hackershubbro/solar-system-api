@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-module.exports = mongoose.connect("mongodb://127.0.0.1:27017/Planets")
+module.exports = mongoose.connect(process.env.MONGO_URL)
 .then(()=>{
     console.log("Connected to the database")
 }).catch((err) => {
