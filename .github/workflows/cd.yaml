@@ -43,4 +43,4 @@ jobs:
             sudo docker rm solor-system-api || true
             sudo pull ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
             echo "MONGO_URL=${{ secrets.MONGO_URL }}" >> .env
-            docker run -d --env-file .env -p 8000:8000 --name solor-system-api ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
+            sudo docker run -d --env-file .env -p 8000:8000 --name solor-system-api ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
