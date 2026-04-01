@@ -1,9 +1,11 @@
-name: ci
+name: cd
 
 on:
-  workflow_dispatch:
-  push:
-
+  workflow_run:
+    workflows: ["ci"]
+    types:
+      - completed
+      
 jobs:
   deploy:
     needs: docker
@@ -22,4 +24,5 @@ jobs:
             sudo docker stop solor-system-api || true
             sudo docker rm solor-system-api || true
             echo "MONGO_URL=${{ secrets.MONGO_URL }}" > .env
+            sudo docker pull ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
             sudo docker run -d --env-file .env -p 80:8000 --name solor-system-api ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
