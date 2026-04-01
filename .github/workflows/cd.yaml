@@ -14,13 +14,13 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: Set up QEMU
-        uses: docker/setup-qemu-action@latest
+        uses: docker/setup-qemu-action@v3
 
       - name: Set up Docker Buildx
-        uses: docker/setup-Buildx-action@latest
+        uses: docker/setup-Buildx-action@v3
 
       - name: Build and push
-        uses: docker/build-push-action@latest
+        uses: docker/build-push-action@v7
         with:
           push: true
           tags: ${{secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: shh into ec2 instance
-        uses: appleboy/ssh-action@latest
+        uses: appleboy/ssh-action@v1
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.SSH_USERNAME }}
