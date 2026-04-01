@@ -18,7 +18,7 @@ jobs:
         uses: docker/setup-qemu-action@v3
 
       - name: Set up Docker Buildx
-        uses: docker/setup-Buildx-action@v3
+        uses: docker/setup-buildx-action@v3
 
       - name: Build and push
         uses: docker/build-push-action@v7
@@ -42,5 +42,5 @@ jobs:
             sudo systemctl restart docker
             sudo docker stop solor-system-api || true
             sudo docker rm solor-system-api || true
-            echo "MONGO_URL=${{ secrets.MONGO_URL }}" >> .env
+            echo "MONGO_URL=${{ secrets.MONGO_URL }}" > .env
             sudo docker run -d --env-file .env -p 80:8000 --name solor-system-api ${{ secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
