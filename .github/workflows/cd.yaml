@@ -26,6 +26,7 @@ jobs:
           push: true
           tags: ${{secrets.DOCKERHUB_USERNAME }}/solor-system-api:latest
 
+
   deploy:
     needs: docker
     runs-on: ubuntu-latest
